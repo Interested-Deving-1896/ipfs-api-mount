@@ -55,7 +55,11 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 ## Contributors
 
 <!-- AI:start:contributors -->
-_Contributors pending._
+| Contributor | Commits |
+|---|---|
+| [@SupraSummus](https://github.com/SupraSummus) | 95 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 5 |
+| [@RubenKelevra](https://github.com/RubenKelevra) | 3 |
 <!-- AI:end:contributors -->
 
 ## Origins
